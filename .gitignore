@@ -103,7 +103,7 @@ _Chutzpah*
 
 # Visual C++ cache files
 ipch/
-*.aps
+# *.aps
 *.ncb
 *.opendb
 *.opensdf
@@ -303,7 +303,7 @@ node_modules/
 
 # Visual Studio 6 technical files
 *.ncb
-*.aps
+# *.aps
 
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
